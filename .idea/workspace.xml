@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4780fff-8e98-457e-a1eb-dc69eee0e815" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2024">
+              <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addProd.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addProd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cupcakes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cupcakes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
+              <folding>
+                <marker date="1495525219616" expanded="true" signature="1074:1129" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1102:1129" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1317:1897" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1389:1878" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1431:1857" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1490:1606" ph="..." />
+                <marker date="1495525219616" expanded="true" signature="1663:1827" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auto.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/auto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cupcake-detail.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cupcake-detail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="97" />
+              <folding>
+                <marker date="1496665318182" expanded="true" signature="855:930" ph="Select id,na... Products" />
+                <marker date="1496665318182" expanded="true" signature="1358:1487" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="1359:1487" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="1549:1585" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="1549:1676" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="1738:1815" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="1738:1865" ph="..." />
+                <marker date="1496665318182" expanded="true" signature="2200:2802" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1078">
+              <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpFunction/add.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="52" lean-forward="false" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="59" />
+              <folding>
+                <marker date="1496665315910" expanded="true" signature="455:576" ph="insert into Products... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpFunction/bel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="77" />
+              <folding>
+                <marker date="1496665318157" expanded="true" signature="146:182" ph="delete from " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbOutput.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phpFunction/dbOutput.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="77" />
+              <folding>
+                <marker date="1496665318221" expanded="true" signature="98:156" ph="Select id,na... Products" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/phpFunction/script.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="73" />
+              <folding>
+                <marker date="1496665318119" expanded="true" signature="197:286" ph="insert into Orders_cake... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&lt;?php /* Textolite v2.09s */ ini_set('error_reporting',E_ALL);ini_set('display_errors',0);ini_set('log_errors',1);ini_set('error_log','error.log');ini_set('date.timezone','UTC');version_compare(PHP_VERSION,'5.2','&gt;=')or exit('PHP '.PHP_VERSION.' is not supported');final class a{private $a;private $h;public function __construct(){$this-&gt;a['a']=$_GET;$this-&gt;a['b']=$_POST;$this-&gt;a['c']=$_SERVER;$this-&gt;a['d']=$_COOKIE;$this-&gt;a['e']=$_FILES;}public function b(){if(isset($this-&gt;a['a']['q']))return $this-&gt;a['a']['q'];}public function c($a=false,$b=false){if(isset($this-&gt;h['c'][$a]))return $this-&gt;h['c'][$a];else{$c=strtoupper($a);if(isset($this-&gt;a['c'][$c])){if(!$b)$b=$a;return $this-&gt;h['c'][$a]=$this-&gt;g($this-&gt;a['c'][$c],$b);}}}public function d($a=false,$b=false){if($a){if(isset($this-&gt;h['b'][$a]))return $this-&gt;h['b'][$a];else if(isset($this-&gt;a['b'][$a]))return $this-&gt;h['b'][$a]=$this-&gt;g($this-&gt;a['b'][$a],$b);}else if(count($this-&gt;a['b']))return true;}public function e($a,$b=false){if(isset($this-&gt;h['d'][$a]))return $this-&gt;h['d'][$a];else if(isset($this-&gt;a['d'][$a]))return $this-&gt;h['d'][$a]=$this-&gt;g($this-&gt;a['d'][$a],$b);}public function f($a){if(isset($this-&gt;a['e'][$a]))return $this-&gt;a['e'][$a];}private function g($a,$b){if($b&amp;&amp;($c='g_'.$b)&amp;&amp;method_exists($this,$c))return $this-&gt;$c($a);else return $a;}private function g_server_protocol($a){preg_match('~^[a-z]{4,5}/[0-9]\.[0-9]$~i',$a,$b);if(isset($b[0]))return $b[0];}private function g_server_name($a){preg_match('~^[a-z0-9-_\.]{2,300}$~i',$a,$b);if(isset($b[0]))return $b[0];}private function g_script_filename($a){$b=str_replace('\\','/',__FILE__);if(stripos($b,$this-&gt;a['c'][strtoupper('document_root')])===0)return $b;else return str_replace('\\','/',$a);}private function g_document_root($a){$a=str_replace('\\','/',$a);$b=$this-&gt;c('script_filename');$c=$this-&gt;c('php_self');$d=$this-&gt;c('script_name');if(stripos($b,$c)&gt;0)$e=str_ireplace($c,'',$b);if(stripos($b,$d)&gt;0)$f=str_ireplace($d,'',$b);if(isset($e)){if (isset($f)){if(strlen($e)&gt;strlen($f))$g=$e;else $g=$f;}else $g=$e;}else if(isset($f))$g=$f;else $g=$a;if(stripos($b,$a)===0){if(strlen($g)&gt;strlen($a))$a=$g;}else $a=$g;if(substr($a,-1)=='/') return substr($a,0,-1);return $a;}private function g_php_self($a){return str_replace('\\','/',$a);}private function g_script_name($a){return str_replace('\\','/',$a);}private function g_query_string($a){return str_replace('\\','/',$a);}private function g_http_accept_language($a){preg_match('~[a-z]{2}~i',strtolower(substr($a,0,2)),$b);if(isset($b[0]))return $b[0];}private function g_remote_addr($a){return $this-&gt;g_ip($a);}private function g_server_addr($a){return $this-&gt;g_ip($a);}private function g_ip($a){preg_match('~^[a-z0-9.:]{1,40}$~i',$a,$b);if(isset($b[0]))return $b[0];}private function g_sha1($a){preg_match('~^[a-z0-9]{40}$~i',$a,$b);if(isset($b[0]))return $b[0];}}final class b{private $i;private $j;private $k;private $l;public function __construct($a){$this-&gt;i=$a;$this-&gt;a('Content-type: text/html; charset=utf-8');}public function a($a){return $this-&gt;j[]=$a;}public function c($a,$b){return $this-&gt;j[]=$this-&gt;i.' '.$a.' '.$b;}public function d($a){return $this-&gt;j[]='Location: '.$a;}public function e($a,$b=false,$c=false,$d=false,$e=false,$f=false,$g=false){$h['name']=$a;$h['value']=$b;$h['httponly']=$g;$h['expire']=(int)$c;$h['path']=$d;$h['domain']=$e;$h['secure']=(int)$f;$this-&gt;k[]=$h;}public function f($a,$b=false,$c=false){$this-&gt;e($a,'',time()-60*60,$b,$c);}public function g($a){return $this-&gt;l=$a;}public function h(){if(isset($this-&gt;j))foreach($this-&gt;j as $a)header($a);if(isset($this-&gt;k))foreach($this-&gt;k as $b)setcookie($b['name'],$b['value'],$b['expire'],$b['path'],$b['domain'],$b['secure'],$b['httponly']);if(isset($this-&gt;l))print $this-&gt;l;}}final class c{const q=&quot;\n&quot;;const r='lang.ini';const s='conf.ini';private $q;private $r;private $s;private $t;private $u;private $v;public function __construct($a,$b,$c,$d){$this-&gt;s=parse_ini_file($a.self::r,true);$this-&gt;t=parse_ini_file($a.self::s,true);$this-&gt;u=array('c'=&gt;'&lt;ol&gt;&lt;li title=&quot;{source_editor}&quot;&gt;{type}&lt;/li&gt;&lt;li title=&quot;{visual_editor}&quot;&gt;text&lt;/li&gt;&lt;/ol&gt;','d'=&gt;'&lt;ol&gt;&lt;li&gt;{type}&lt;/li&gt;&lt;/ol&gt;','e'=&gt;'&lt;div id=&quot;textolite-panel&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;h1&gt;&lt;a href=&quot;http://textolite.ru/&quot;&gt;Textolite&lt;/a&gt; v{version}&lt;/h1&gt;&lt;p&gt;{standard}&lt;/p&gt;&lt;/div&gt;{mode}&lt;ul&gt;&lt;li&gt;&lt;a title=&quot;{files}&quot;&gt;{files}&lt;/a&gt;&lt;div id=&quot;textolite-files&quot;&gt;&lt;ol&gt;&lt;li&gt;{file_name}&lt;/li&gt;&lt;li&gt;{file_size}&lt;/li&gt;&lt;li&gt;{file_changed}&lt;/li&gt;&lt;li&gt;{file_menu}&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;{filelist}&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;a title=&quot;{settings}&quot;&gt;{settings}&lt;/a&gt;&lt;div id=&quot;textolite-settings&quot;&gt;&lt;fieldset&gt;&lt;legend&gt;{auth}&lt;/legend&gt;&lt;dl&gt;&lt;dt title=&quot;{new_password}&quot;&gt;{new_password}:&lt;/dt&gt;&lt;dd&gt;&lt;input type=&quot;password&quot; maxlength=&quot;14&quot;&gt;&lt;a&gt;&lt;/a&gt;&lt;/dd&gt;&lt;dt title=&quot;{auth_error_limit_desc}&quot;&gt;{login_attempts}:&lt;/dt&gt;&lt;dd defaultValue=&quot;5&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;2&quot; value=&quot;{auth_error_limit}&quot;&gt;&lt;/dd&gt;&lt;dt title=&quot;{auth_lockout_duration_desc}&quot;&gt;{lockout_duration}:&lt;/dt&gt;&lt;dd defaultValue=&quot;1&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;7&quot; value=&quot;{auth_lockout_duration}&quot;&gt;&lt;/dd&gt;&lt;dt title=&quot;{auth_session_reset_desc}&quot;&gt;{session_autoreset}:&lt;/dt&gt;&lt;dd defaultValue=&quot;30&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;3&quot; value=&quot;{auth_session_reset}&quot;&gt;&lt;/dd&gt;&lt;dd title=&quot;{logout_to_site_desc}&quot; defaultValue=&quot;0&quot;&gt;&lt;label&gt;{logout_to_site_checkbox}&lt;em&gt;&lt;/em&gt;{redirect_to_site}&lt;/label&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/fieldset&gt;&lt;fieldset&gt;&lt;legend&gt;{visual_editor}&lt;/legend&gt;&lt;dl&gt;&lt;dd title=&quot;{site_scripts_desc}&quot; defaultValue=&quot;1&quot;&gt;&lt;label&gt;{site_scripts_checkbox}&lt;em&gt;&lt;/em&gt;{enable_scripts}&lt;/label&gt;&lt;/dd&gt;&lt;dd title=&quot;{site_styles_desc}&quot; defaultValue=&quot;1&quot;&gt;&lt;label&gt;{site_styles_checkbox}&lt;em&gt;&lt;/em&gt;{enable_styles}&lt;/label&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/fieldset&gt;&lt;fieldset&gt;&lt;legend&gt;{source_editor}&lt;/legend&gt;&lt;dl&gt;&lt;dt title=&quot;{code_redraw_delay_desc}&quot;&gt;{redraw_delay}:&lt;/dt&gt;&lt;dd defaultValue=&quot;200&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;7&quot; value=&quot;{code_redraw_delay}&quot;&gt;&lt;/dd&gt;&lt;dt title=&quot;{code_undo_limit_desc}&quot;&gt;{steps_for_undo}:&lt;/dt&gt;&lt;dd defaultValue=&quot;50&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;3&quot; value=&quot;{code_undo_limit}&quot;&gt;&lt;/dd&gt;&lt;dd title=&quot;{code_highlighting_desc}&quot; defaultValue=&quot;1&quot;&gt;&lt;label&gt;{code_highlighting_checkbox}&lt;em&gt;&lt;/em&gt;{enable_highlighting}&lt;/label&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/fieldset&gt;&lt;fieldset&gt;&lt;legend&gt;{system}&lt;/legend&gt;&lt;dl&gt;&lt;dt title=&quot;{default_file_desc}&quot;&gt;{main_page_or_file}:&lt;/dt&gt;&lt;dd defaultValue=&quot;index.html&quot;&gt;&lt;input type=&quot;text&quot; maxlength=&quot;30&quot; value=&quot;{default_file}&quot;&gt;&lt;/dd&gt;&lt;dd title=&quot;{new_version_notify}&quot; defaultValue=&quot;1&quot;&gt;&lt;label&gt;{update_final_checkbox}&lt;em&gt;&lt;/em&gt;{new_version_notify}&lt;/label&gt;&lt;/dd&gt;&lt;dd title=&quot;{beta_version_notify}&quot; defaultValue=&quot;0&quot;&gt;&lt;label&gt;{update_beta_checkbox}&lt;em&gt;&lt;/em&gt;{beta_version_notify}&lt;/label&gt;&lt;/dd&gt;&lt;dt title=&quot;{language}&quot;&gt;{language}:&lt;/dt&gt;&lt;dd defaultValue=&quot;index.html&quot;&gt;&lt;ul&gt;{langlist}&lt;/ul&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/fieldset&gt;&lt;fieldset&gt;&lt;legend&gt;{extended}&lt;/legend&gt;&lt;dl&gt;&lt;dt&gt;{activate}:&lt;/dt&gt;&lt;dd&gt;&lt;input type=&quot;text&quot; maxlength=&quot;7&quot;&gt;&lt;/dd&gt;&lt;dt&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;&lt;/span&gt;&lt;input type=&quot;text&quot; disabled&gt;&lt;input type=&quot;text&quot; disabled&gt;&lt;i&gt;&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;{attachment_domain} &lt;strong&gt;&lt;/strong&gt;. {attachment_notice}&lt;/p&gt;&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;{attach}&quot;&gt;&lt;input type=&quot;button&quot; value=&quot;{cancel}&quot;&gt;&lt;/p&gt;&lt;/dt&gt;&lt;/dl&gt;&lt;/fieldset&gt;&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;{save}&quot; disabled&gt;&lt;a title=&quot;{restore_settings}&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;input type=&quot;button&quot; value=&quot;{save}&quot; title=&quot;{save}&quot; disabled&gt;&lt;/li&gt;&lt;li&gt;&lt;input type=&quot;button&quot; value=&quot;{logout}&quot; title=&quot;{logout}&quot; disabled data-confirm=&quot;{not_save}&quot;&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;samp data-saving=&quot;{saving}&quot; data-saved=&quot;{saved}&quot; data-not-saved=&quot;{not_saved}&quot; data-reset-session=&quot;{reset_session}&quot; data-access-closed=&quot;{access_closed}&quot; data-request-rejected=&quot;{request_rejected}&quot; data-request-blocked=&quot;{request_blocked}&quot; data-no-response=&quot;{no_response}&quot; data-not-writable=&quot;{not_writable}&quot; data-old-browser=&quot;{old_browser}&quot; data-new-version=&quot;{new_version}&quot; data-need-update=&quot;{need_update}&quot; data-install=&quot;{install}&quot; data-not-install=&quot;{not_install}&quot; data-download-installer=&quot;{download_installer}&quot; data-system-update=&quot;{system_update}&quot; data-update-error=&quot;{update_error}&quot; data-install-complete=&quot;{install_complete}&quot; data-attachment-domain=&quot;{attachment_domain}&quot; data-no-connect=&quot;{no_connect}&quot; data-password-hashing=&quot;{password_hashing}&quot; data-pass-complexity=&quot;{pass_complexity}&quot; data-uploading=&quot;{uploading}&quot; data-uploading-complete=&quot;{uploading_complete}&quot; data-uploading-error=&quot;{uploading_error}&quot; data-extension-error=&quot;{extension_error}&quot; data-count-limit=&quot;{count_limit}&quot; data-size-limit=&quot;{size_limit}&quot; data-file-deletion=&quot;{file_deletion}&quot; data-file-deleted=&quot;{file_deleted}&quot; data-deletion-error=&quot;{deletion_error}&quot; data-unknown-relation=&quot;{unknown_relation}&quot; data-element-busy=&quot;{element_busy}&quot; data-disable-script=&quot;{disable_script}&quot; data-disable=&quot;{disable}&quot; data-disabling-scripts=&quot;{disabling_scripts}&quot; data-scripts-disabled=&quot;{scripts_disabled}&quot; data-show-password=&quot;{show_password}&quot; data-hide-password=&quot;{hide_password}&quot; data-post-max-size=&quot;{post_max_size}&quot; data-upload-max-filesize=&quot;{upload_max_filesize}&quot; data-max-file-uploads=&quot;{max_file_uploads}&quot; data-session-autoreset=&quot;{auth_session_reset}&quot; data-site-scripts=&quot;{site_scripts}&quot; data-site-styles=&quot;{site_styles}&quot; data-logout-to-site=&quot;{logout_to_site}&quot; data-ip=&quot;{ip}&quot; data-sip=&quot;{sip}&quot; data-system-url=&quot;{system_url}&quot; data-is-edited=&quot;{is_edited}&quot; data-version=&quot;{version}&quot; data-update-final=&quot;{update_final}&quot; data-update-beta=&quot;{update_beta}&quot;&gt;&lt;/samp&gt;&lt;noscript&gt;&lt;samp&gt;{requires_javascript}&lt;/samp&gt;&lt;/noscript&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;script src=&quot;{system_url}textolite.js?v={version}&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/template&quot; id=&quot;textolite-block&quot;&gt;&lt;edit class=&quot;textolite-block&quot; contenteditable&gt;&lt;/edit&gt;&lt;/script&gt;&lt;script type=&quot;text/template&quot; id=&quot;textolite-style&quot;&gt;.textolite-block{outline:none;font-style:inherit;cursor:text}.textolite-focus{outline:4px solid #f2ca00 !important;outline-offset:8px}.textolite-disabled{outline-color:#f00 !important}&lt;/script&gt;&lt;script type=&quot;text/template&quot; id=&quot;textolite-source&quot;&gt;{source}&lt;/script&gt;','f'=&gt;'&lt;!doctype html&gt;&lt;html id=&quot;textolite-login&quot;&gt;&lt;head&gt;&lt;title&gt;{auth} - Textolite&lt;/title&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;{system_url}textolite.css?v={version}&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;fieldset&gt;&lt;legend&gt;{auth}&lt;/legend&gt;&lt;ol data-error-limit=&quot;{error_limit}&quot; data-error-count=&quot;{error_count}&quot;&gt;&lt;li&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;samp data-password-hashing=&quot;{password_hashing}&quot; data-password-checking=&quot;{password_checking}&quot; data-access-granted=&quot;{access_granted}&quot; data-access-denied=&quot;{access_denied}&quot; data-no-response=&quot;{no_response}&quot; data-not-writable=&quot;{not_writable}&quot; data-system-url=&quot;{system_url}&quot;&gt;{document_root_error}&lt;/samp&gt;&lt;noscript&gt;&lt;samp&gt;{requires_javascript}&lt;/samp&gt;&lt;/noscript&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;{password}:&lt;/span&gt;&lt;input type=&quot;password&quot; data-pass-complexity=&quot;{pass_complexity}&quot; maxlength=&quot;14&quot;&gt;&lt;a data-show-password=&quot;{show_password}&quot; data-hide-password=&quot;{hide_password}&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;input type=&quot;button&quot; value=&quot;{login}&quot; disabled&gt;&lt;/p&gt;&lt;/fieldset&gt;&lt;script src=&quot;{system_url}textolite.js?v={version}&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;','g'=&gt;'&lt;!doctype html&gt;&lt;html id=&quot;textolite-error&quot;&gt;&lt;head&gt;&lt;title&gt;{code} - {{code}} - Textolite&lt;/title&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;{system_url}textolite.css?v={version}&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;samp&gt;&lt;span&gt;{code}&lt;/span&gt; {{code}}&lt;/samp&gt;&lt;/body&gt;&lt;/html&gt;','a'=&gt;'&lt;!doctype html&gt;&lt;html id=&quot;textolite-visual&quot;&gt;&lt;head&gt;&lt;title&gt;{title} - Textolite&lt;/title&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;{system_url}textolite.css?v={version}&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;iframe&gt;{no_frames}&lt;/iframe&gt;&lt;script type=&quot;text/template&quot; id=&quot;textolite-base&quot;&gt;&lt;base href=&quot;{base}&quot;&gt;&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;','h'=&gt;'&lt;!doctype html&gt;&lt;html id=&quot;textolite-code&quot;&gt;&lt;head&gt;&lt;title&gt;{title} - Textolite&lt;/title&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;{system_url}textolite.css?v={version}&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;div&gt;&lt;ol data-item=&quot;&lt;li style=height:0px&gt;&lt;/li&gt;&quot;&gt;&lt;/ol&gt;&lt;pre contenteditable data-redraw-delay=&quot;{redraw_delay}&quot; data-code-highlighting=&quot;{code_highlighting}&quot; data-undo-limit=&quot;{code_undo_limit}&quot;&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;','i'=&gt;'&lt;li&gt;&lt;ol class=&quot;textolite-folder&quot;&gt;&lt;li&gt;&lt;a data-url=&quot;{url}&quot;&gt;{name}&lt;/a&gt;&lt;/li&gt;&lt;li&gt;{size}&lt;/li&gt;&lt;li&gt;{date}&lt;/li&gt;&lt;li&gt;&lt;i title=&quot;{add_file}&quot;&gt;&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;/ul&gt;&lt;/li&gt;','j'=&gt;'&lt;li&gt;&lt;ol class=&quot;textolite-file&quot;&gt;&lt;li&gt;&lt;a data-url=&quot;{url}&quot;&gt;{name}&lt;/a&gt;&lt;/li&gt;&lt;li&gt;{size}&lt;/li&gt;&lt;li&gt;{date}&lt;/li&gt;&lt;li&gt;&lt;i title=&quot;{delete_file}&quot;&gt;&lt;/i&gt;&lt;i title=&quot;{deletion_confirm}&quot;&gt;&lt;/i&gt;&lt;i title=&quot;{deletion_cancel}&quot;&gt;&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;','k'=&gt;'&lt;li title=&quot;{{lang}}&quot;&gt;{radio}{lang}&lt;/li&gt;','l'=&gt;'&lt;input type=&quot;radio&quot; name=&quot;{name}&quot; value=&quot;{value}&quot;&gt;','m'=&gt;'&lt;input type=&quot;radio&quot; name=&quot;{name}&quot; value=&quot;{value}&quot; checked&gt;','n'=&gt;'&lt;input type=&quot;checkbox&quot;&gt;','o'=&gt;'&lt;input type=&quot;checkbox&quot; checked&gt;');$this-&gt;q['a']=$a;$this-&gt;q['b']=$this-&gt;h('document_root');if(!$this-&gt;q['b'])$this-&gt;q['b']=$b;$this-&gt;q['c']=str_ireplace($this-&gt;q['b'],'',$this-&gt;q['a']);$this-&gt;q['d']=$this-&gt;p($a);$this-&gt;q['e']=$this-&gt;p($this-&gt;q['c']);if(stripos($f=$this-&gt;h('lang'),',')){if($d&amp;&amp;stripos($f,$d)!==false)$this-&gt;r=$d;else if(stripos($f,$c)!==false)$this-&gt;r=$c;else$this-&gt;r=substr($f,0,2);}else$this-&gt;r=substr($f,0,2);}public function __destruct(){if($this-&gt;v)$this-&gt;j();}public function a(){return $this-&gt;r;}public function b($a=false){if($a&amp;&amp;!$this-&gt;a)return $this-&gt;q['c'].'?q=';else return $this-&gt;q['c'];}public function d(){return $this-&gt;q['a'];}public function e(){return $this-&gt;q['e'];}public function f(){return $this-&gt;q['d'];}public function g(){return $this-&gt;q['b'];}public function h($a,$b=false){if($b){if(isset($this-&gt;t[$b][$a]))return $this-&gt;t[$b][$a];}else if(isset($this-&gt;t[$a]))return $this-&gt;t[$a];}public function i($a,$b,$c=false){if($c){if(isset($this-&gt;t[$c])){$this-&gt;v=true;return $this-&gt;t[$c][$a]=$b;}}else{$this-&gt;v=true;return $this-&gt;t[$a]=$b;}}private function j(){foreach($this-&gt;t as $a =&gt; $b)if(!is_array($b))$c[]=$a.' = '.$b.self::q.self::q;foreach($this-&gt;t as$a=&gt;$b){if(is_array($b)){$c[]='['.$a.']'.self::q.self::q;foreach($b as$d=&gt;$e)$c[]=&quot;\t&quot;.$d.' = '.$e.self::q;$c[]=self::q;}}if($f=fopen($this-&gt;q['a'].self::s,'w')){flock($f,LOCK_EX);fwrite($f,implode('',$c));flock($f,LOCK_UN);fclose($f);}}public function k($a,$b=false){if(isset($this-&gt;u[$a]))return $this-&gt;m($this-&gt;l($this-&gt;u[$a],$b));}public function l($a,$b){if($b)foreach($b as$c=&gt;$d)$a=str_ireplace('{'.$c.'}',$d,$a);return $a;}public function m($a){preg_match_all('~\{([a-z0-9_]{2,30})\}~i',$a,$b);if($b[1]){$b[1]=array_unique($b[1]);foreach($b[1]as$c)if($d=$this-&gt;n($c))$a=str_ireplace('{'.$c.'}',$d,$a);}return $a;}public function n($a){if(isset($this-&gt;s[$this-&gt;r][$a]))return $this-&gt;s[$this-&gt;r][$a];}public function o($a){if(isset($this-&gt;s['en'][$a]))return $this-&gt;s['en'][$a];}public function p($a){if(substr_count($a,'/')&gt;2)return dirname($a).'/';else return '/';}public function r(){return is_writable($this-&gt;q['a'].self::s);}}final class d{const s='2.09s';private $s;private $t;private $u;public function __construct($a,$b,$c){$this-&gt;s=$a;$this-&gt;t=$b;$this-&gt;u=$c;if($this-&gt;s-&gt;h('mod_rewrite')==='1')$this-&gt;s-&gt;a=1;else if($this-&gt;s-&gt;h('mod_rewrite')==='0')$this-&gt;s-&gt;a=0;else if((stripos($this-&gt;t-&gt;c('query_string'),'q=')===0)&amp;&amp;(stripos($this-&gt;t-&gt;c('request_uri'),$this-&gt;t-&gt;c('query_string'))===false))$this-&gt;s-&gt;a=1;else $this-&gt;s-&gt;a=0;}public function a(){$a=$this-&gt;t-&gt;e('textolite_session','sha1');if($a&amp;&amp;$a==$this-&gt;s-&gt;h('session'))$this-&gt;b();else{$b=unserialize(urldecode($this-&gt;s-&gt;h('auth_error_list')));$c=$this-&gt;s-&gt;h('auth_error_limit');$d=$this-&gt;t-&gt;c('remote_addr');if($b&amp;&amp;isset($b[$d]))$e=$b[$d];else$e=0;$f=time();if($this-&gt;t-&gt;d()&amp;&amp;$this-&gt;t-&gt;c('http_ajax')){$g=$this-&gt;t-&gt;d('password','sha1');if($g&amp;&amp;($e&lt;$c||$this-&gt;s-&gt;h('auth_error_time')+($this-&gt;s-&gt;h('auth_lockout_duration')*60)&lt;$f)){$h=$this-&gt;s-&gt;h('password');$i=$this-&gt;s-&gt;h('pass_complexity_js')*1;$j=$this-&gt;s-&gt;h('pass_complexity')*1;$x=$j-$i;for($y=0;$y&lt;$x;$y++)$g=sha1($g);if($h==$g){if($this-&gt;s-&gt;r()){$this-&gt;p();if(isset($b[$d])){unset($b[$d]);$this-&gt;s-&gt;i('auth_error_list',urlencode(serialize($b)));}if($i&lt;5)$this-&gt;s-&gt;i('pass_complexity_js',15000);else$this-&gt;s-&gt;i('pass_complexity_js',$i-1);$this-&gt;s-&gt;i('filelist','');}else{$this-&gt;u-&gt;a('X-Not-Writable:1');$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}}else{$this-&gt;s-&gt;i('auth_error_time',$f);$b[$d]=$e+1;$this-&gt;s-&gt;i('auth_error_list',urlencode(serialize($b)));$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else{if(!$this-&gt;s-&gt;h('auth_bot_filter')||$this-&gt;t-&gt;c('http_accept_language')&amp;&amp;$this-&gt;t-&gt;c('http_user_agent')&amp;&amp;preg_match('~Chrome|Firefox|Opera|Safari|AppleWebKit|Trident|MSIE~i',$this-&gt;t-&gt;c('http_user_agent'))){if($e&lt;$c||$this-&gt;s-&gt;h('auth_error_time')+($this-&gt;s-&gt;h('auth_lockout_duration')*60)&lt;$f){$k['system_url']=$this-&gt;s-&gt;b();$k['error_limit']=$c;$k['error_count']=$e;$k['pass_complexity']=$this-&gt;s-&gt;h('pass_complexity_js');$k['version']=self::s;$this-&gt;u-&gt;g($this-&gt;s-&gt;k('f',$k));}else throw new Exception(false,403);}else throw new Exception(false,403);}}}public function b(){$a=$this-&gt;t-&gt;b();if(!$a||!preg_match('~\.[a-z]{2,5}$~i',$a)){if($this-&gt;t-&gt;c('script_filename')!=str_replace('\\','/',__FILE__)){$this-&gt;m();}if(!file_exists($this-&gt;s-&gt;f().$this-&gt;s-&gt;h('default_file'))&amp;&amp;($n=$this-&gt;t())){throw new Exception($this-&gt;s-&gt;b(1).$n,307);}else throw new Exception($this-&gt;s-&gt;b(1).$this-&gt;s-&gt;h('default_file'),307);}$b=$this-&gt;s-&gt;f().$a;if($this-&gt;t-&gt;c('http_ajax')){if($this-&gt;t-&gt;d('reload')){$this-&gt;p();}else if($this-&gt;t-&gt;d('logout')){$this-&gt;q();}else if(($c=$this-&gt;t-&gt;d('save'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$this-&gt;u-&gt;f('textolite_token');$c=str_replace('&lt;/_cript','&lt;/script',base64_decode(str_replace('_','a',$c)));$c=str_replace('&lt;_cript','&lt;script',$c);$c=str_replace('&lt;!--~~?','&lt;?',$c);$c=str_replace('?~~--&gt;','?&gt;',$c);if($this-&gt;f(strtolower(substr($b,strripos($b,'.')+1)))){if(is_writable($b)&amp;&amp;$e=fopen($b,'w')){flock($e,LOCK_EX);fwrite($e,$c);flock($e,LOCK_UN);fclose($e);$this-&gt;s-&gt;i('filelist','');}else{$this-&gt;u-&gt;a('X-Not-Writable:1');$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}}else $this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else if($f=$this-&gt;t-&gt;d('open')){$f=rawurldecode($f);$g=$this-&gt;g($f);if($g===false){$this-&gt;s-&gt;i('filelist','');$g=$this-&gt;g($f);}if($g!==false)$this-&gt;u-&gt;g($g);else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else if(($f=$this-&gt;t-&gt;d('upload'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$this-&gt;u-&gt;f('textolite_token');$f=rawurldecode($f);$h=$this-&gt;s-&gt;g().$f;$i=$this-&gt;t-&gt;f('file');if(count($i)&amp;&amp;is_dir($h)){$j='';$k=$this-&gt;s-&gt;k('j');$t=str_replace(' ','',str_replace(',','|',$this-&gt;s-&gt;h('editable_ext')));foreach($i['tmp_name'] as$l=&gt;$m){if ($this-&gt;f(strtolower(substr($i['name'][$l],strripos($i['name'][$l],'.')+1)))){if(!$i['error'][$l]){$n=$h.$i['name'][$l];move_uploaded_file($m,$n);$o['name']=$i['name'][$l];$o['date']=filemtime($n);$o['size']=filesize($n);preg_match('~\.(?:'.$t.')$~i',$o['name'],$p);if(isset($p[0]))$o['url']=$this-&gt;s-&gt;b(1).substr($f,strlen($this-&gt;s-&gt;e())).$o['name'];else $o['url']=$f.$o['name'];$j.=$this-&gt;s-&gt;l($k,$o);}else $s=true;}else $w=true;if(isset($j)){$this-&gt;s-&gt;i('filelist','');$u=$this-&gt;j($f);$v=$u['size'];$this-&gt;u-&gt;a('X-Folder-Size:'.$v);$this-&gt;u-&gt;g($j);}if(isset($w))$this-&gt;u-&gt;a('X-Not-Allowed:1');else if(isset($s))$this-&gt;u-&gt;a('X-Upload-Error:1');}}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else if(($t=$this-&gt;t-&gt;d('remove'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$this-&gt;u-&gt;f('textolite_token');$t=rawurldecode($t);if($this-&gt;f(strtolower(substr($t,strripos($t,'.')+1)))){$t=str_replace($this-&gt;s-&gt;b(),$this-&gt;s-&gt;e(),$t);$b=$this-&gt;s-&gt;g().$t;if(is_file($b)&amp;&amp;unlink($b)){$this-&gt;s-&gt;i('filelist','');$u=$this-&gt;j($this-&gt;s-&gt;p($t));$this-&gt;u-&gt;a('X-Folder-Size:'.$u['size']);}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else{$this-&gt;u-&gt;a('X-Not-Allowed:1');$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}}else if(($v=$this-&gt;t-&gt;d('settings'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$this-&gt;u-&gt;f('textolite_token');if($v['password']){$w=$this-&gt;s-&gt;h('password');$x=$this-&gt;s-&gt;h('pass_complexity')-$this-&gt;s-&gt;h('pass_complexity_js');for($y=0;$y&lt;$x;$y++)$v['password']=sha1($v['password']);if($v['password']!=$w)$this-&gt;s-&gt;i('password',$v['password']);}if($v['lang']&amp;&amp;$v['lang']!=$this-&gt;s-&gt;a()){if(stripos($z=$this-&gt;s-&gt;h('lang'),',')&amp;&amp;stripos($z,$v['lang'])!==false){if($v['lang']!=$this-&gt;t-&gt;c('http_accept_language'))$this-&gt;u-&gt;e('textolite_lang',$v['lang'],time()+60*60*24*365,$this-&gt;s-&gt;b(),false,false,true);else$this-&gt;u-&gt;f('textolite_lang',$this-&gt;s-&gt;b());}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}if($this-&gt;s-&gt;h('default_file')!==null&amp;&amp;preg_match('~^.{1,30}$~i',$v['default_file'],$p)&amp;&amp;isset($p[0])){$this-&gt;s-&gt;i('default_file',$v['default_file']);}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));unset($v['password'],$v['lang'],$v['default_file']);foreach($v as$l=&gt;$s)if($this-&gt;s-&gt;h($l)!==null&amp;&amp;preg_match('~^[0-9]{1,7}$~i',$s,$p)&amp;&amp;isset($p[0]))$this-&gt;s-&gt;i($l,$s);else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else if(($u=$this-&gt;t-&gt;d('scripts'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;($d==$this-&gt;t-&gt;e('textolite_token','sha1'))){$this-&gt;u-&gt;f('textolite_token');if($this-&gt;s-&gt;h('site_scripts')!==null)$this-&gt;s-&gt;i('site_scripts','0');else $this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else if(($u=$this-&gt;t-&gt;d('install'))&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$this-&gt;u-&gt;f('textolite_token');$w=$this-&gt;s-&gt;d().'update.php';preg_match('~^[a-z0-9+=/_]+$~i',$u,$p);if(isset($p[0])&amp;&amp;($u=base64_decode(str_replace('_','a',$u)))&amp;&amp;($e=fopen($w,'w'))){flock($e,LOCK_EX);$u=fwrite($e,$u);flock($e,LOCK_UN);fclose($e);if($u){$o=include$w;if($o=='error')$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));else if(file_exists($this-&gt;s-&gt;f().$o))$this-&gt;u-&gt;g($this-&gt;s-&gt;b(1).$o);unlink($w);}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else$this-&gt;u-&gt;c(404,$this-&gt;s-&gt;o('404'));}else{$this-&gt;p();if(file_exists($b)){$o=strtolower(substr($b,strripos($b,'.')+1));if($this-&gt;f($o)){$n=true;$e['is_edited']='';$c=$this-&gt;c($b);$f=strtolower(substr($b,strripos($b,'.')+1));preg_match('~^html?|sh?tml?|xml|php$~i',$f,$p);if(isset($p[0])){$n=$this-&gt;t-&gt;e('textolite_html');if($o=='xml')$e['mode']=$this-&gt;s-&gt;k('c',array('type'=&gt;'xml'));else if($o=='php')$e['mode']=$this-&gt;s-&gt;k('c',array('type'=&gt;'php'));else $e['mode']=$this-&gt;s-&gt;k('c',array('type'=&gt;'html'));$g=$this-&gt;t-&gt;d('switch');if(is_numeric($g)){$h=$this-&gt;t-&gt;d('source');if($h&amp;&amp;($d=$this-&gt;t-&gt;d('token','sha1'))&amp;&amp;$d==$this-&gt;t-&gt;e('textolite_token','sha1')){$h=base64_decode(str_replace('_','a',$h));$this-&gt;u-&gt;a('X-XSS-Protection: 0');$this-&gt;u-&gt;f('textolite_token');$h=str_replace('&lt;/_cript','&lt;/script',$h);$h=str_replace('&lt;_cript','&lt;script',$h);$e['is_edited']='1';$c=$h;}if($g==='1'&amp;&amp;!$n){$n=true;$this-&gt;u-&gt;e('textolite_html',1,time()+60*60*24*90,$this-&gt;s-&gt;b(),false,false,true);$c=str_replace('&lt;!--~~?','&lt;?',$c);$c=str_replace('?~~--&gt;','?&gt;',$c);}if($g==='0'&amp;&amp;$n){$n=false;$this-&gt;u-&gt;f('textolite_html',$this-&gt;s-&gt;b());}}preg_match('~&lt;title&gt;([^&lt;&gt;]{1,150})&lt;/title&gt;~i',$c,$p);if(isset($p[1]))$i['title']=$p[1];else$i['title']=$this-&gt;s-&gt;n('visual_editor');}else$e['mode']=$this-&gt;s-&gt;k('d',array('type'=&gt;$f));$i['system_url']=$this-&gt;s-&gt;b();$i['version']=self::s;if($n){$i['redraw_delay']=$this-&gt;s-&gt;h('code_redraw_delay');$i['code_highlighting']=$this-&gt;s-&gt;h('code_highlighting');$i['code_undo_limit']=$this-&gt;s-&gt;h('code_undo_limit');if(!isset($i['title']))$i['title']=$this-&gt;s-&gt;b().$a;$l=$this-&gt;s-&gt;k('h',$i);}else{$i['base']=$this-&gt;s-&gt;e();if($m=strripos($a,'/'))$i['base'].=substr($a,0,$m+1);$l=$this-&gt;s-&gt;k('a',$i);$c=str_replace('&lt;?','&lt;!--~~?',$c);$c=str_replace('?&gt;','?~~--&gt;',$c);}$c=str_replace('&lt;/script','&lt;/_cript',$c);$e['source']=str_replace('&lt;script','&lt;_cript',$c);}else{$e['is_edited']='';$e['source']='';$e['mode']=$this-&gt;s-&gt;k('d',array('type'=&gt;'403'));$l=$this-&gt;s-&gt;k('g',array('code'=&gt;'403','system_url'=&gt;$this-&gt;s-&gt;b(),'version'=&gt;self::s));}}else{$e['is_edited']='';$e['source']='';$e['mode']=$this-&gt;s-&gt;k('d',array('type'=&gt;'404'));$l=$this-&gt;s-&gt;k('g',array('code'=&gt;'404','system_url'=&gt;$this-&gt;s-&gt;b(),'version'=&gt;self::s));}$e['system_url']=$this-&gt;s-&gt;b();$e['ip']=$this-&gt;t-&gt;c('remote_addr');$e['sip']=$this-&gt;t-&gt;c('server_addr');$e['version']=self::s;$e['filelist']=$this-&gt;i($this-&gt;s-&gt;e());$e['pass_complexity']=$this-&gt;s-&gt;h('pass_complexity_js');$e['auth_session_reset']=$this-&gt;s-&gt;h('auth_session_reset');$e['post_max_size']=$this-&gt;e(ini_get('post_max_size'));$e['upload_max_filesize']=$this-&gt;e(ini_get('upload_max_filesize'));$e['max_file_uploads']=ini_get('max_file_uploads');$e['auth_error_limit']=$this-&gt;s-&gt;h('auth_error_limit');$e['auth_lockout_duration']=$this-&gt;s-&gt;h('auth_lockout_duration');$e['code_redraw_delay']=$this-&gt;s-&gt;h('code_redraw_delay');$e['code_undo_limit']=$this-&gt;s-&gt;h('code_undo_limit');$e['default_file']=$this-&gt;s-&gt;h('default_file');$e['logout_to_site']=$this-&gt;s-&gt;h('logout_to_site');if($e['logout_to_site'])$e['logout_to_site_checkbox']=$this-&gt;s-&gt;k('o');else $e['logout_to_site_checkbox']=$this-&gt;s-&gt;k('n');$e['site_scripts']=$this-&gt;s-&gt;h('site_scripts');if($e['site_scripts'])$e['site_scripts_checkbox']=$this-&gt;s-&gt;k('o');else $e['site_scripts_checkbox'] = $this-&gt;s-&gt;k('n');$e['site_styles']=$this-&gt;s-&gt;h('site_styles');if($e['site_styles'])$e['site_styles_checkbox']=$this-&gt;s-&gt;k('o');else $e['site_styles_checkbox']=$this-&gt;s-&gt;k('n');$e['update_final']=$this-&gt;s-&gt;h('update_final');if($e['update_final'])$e['update_final_checkbox']=$this-&gt;s-&gt;k('o');else $e['update_final_checkbox']=$this-&gt;s-&gt;k('n');$e['update_beta']=$this-&gt;s-&gt;h('update_beta');if($e['update_beta'])$e['update_beta_checkbox']=$this-&gt;s-&gt;k('o');else $e['update_beta_checkbox']=$this-&gt;s-&gt;k('n');if($this-&gt;s-&gt;h('code_highlighting'))$e['code_highlighting_checkbox']=$this-&gt;s-&gt;k('o');else $e['code_highlighting_checkbox']=$this-&gt;s-&gt;k('n');$e['langlist']=$this-&gt;o();$e['source']=str_replace('{','!~!',$e['source']);$l=str_replace('&lt;/body&gt;',$this-&gt;s-&gt;k('e',$e).'&lt;/body&gt;',$l);$l=str_replace('!~!','{',$l);$this-&gt;u-&gt;g($l);}}public function c($a){$b=file_get_contents($a);preg_match('~&lt;meta[^&gt;]+utf-8~i',$b,$c);preg_match('~&lt;meta[^&gt;]+windows-1251~i',$b,$d);if(!isset($c[0])&amp;&amp;isset($d[0])){$b=preg_replace('~(&lt;meta[^&gt;]+)windows-1251~i','$1utf-8',$b);$b=iconv('Windows-1251','UTF-8',$b);}return $b;}public function e($a){$a=strtolower(trim($a));switch($a[strlen($a)-1]){case'm':return $a*1048576;case'k':return $a*1024;case'g':return $a*1073741824;default:return $a;}}public function f($a){$b=$this-&gt;s-&gt;h('allowed_ext');if(!$b||preg_match('~(?:^|,\s*)'.$a.'(?:\s*,|$)~i',$b))return true;}public function g($a){$b=$this-&gt;h($a);if($b!==false){$c='';$d=$this-&gt;s-&gt;k('i');$e=$this-&gt;s-&gt;k('j');foreach($b as$f){if(isset($f['list'])){unset($f['list']);$c.=$this-&gt;s-&gt;l($d,$f);}else$c.=$this-&gt;s-&gt;l($e,$f);}return $c;}else return false;}public function h($a){$b=$this-&gt;k();if($a!='/'){$c=$this-&gt;s-&gt;e();if($c!='/'){if($a==$c)$d=false;else$d=substr(str_replace($c,'',$a),0,-1);}else$d=substr($a,1,-1);}else$d=false;$e=$b['list'];if($d){$d=explode('/',$d);foreach($d as$f){foreach($e as$g){if($g['name']==$f){$e=$g['list'];break;}}if($e!=$g['list']){$e=false;break;}}}return $e;}public function i($a){$b=$this-&gt;j($a);unset($b['list']);return $this-&gt;s-&gt;k('i',$b);}public function j($b){$a=$this-&gt;k($b);if($b!='/'){$c=$this-&gt;s-&gt;e();if($c!='/'){if($b==$c)$d=false;else$d=substr(str_replace($c,'',$b),0,-1);}else$d=substr($b,1,-1);}else$d=false;$f=$a;if($d){$d=explode('/',$d);foreach($d as$e){foreach($f['list'] as$g){if($g['name']==$e){$f=$g;break;}}if($f!=$g)$f=false;}}return $f;}public function k(){$a=$this-&gt;s-&gt;h('filelist');if(!$a){$a=$this-&gt;l($this-&gt;s-&gt;e());$this-&gt;s-&gt;i('filelist',urlencode(serialize($a)));}else$a=unserialize(urldecode($a));return $a;}public function l($a){$b=$this-&gt;s-&gt;g().$a;if($a=='/')$c['name']=$this-&gt;t-&gt;c('server_name');else$c['name']=substr($a,strrpos(substr($a,0,-1),'/')+1,-1);$c['date']=filemtime($b);$c['size']=0;$c['url']=$a;$d=$e=array();$j=str_replace(' ','',str_replace(',','|',$this-&gt;s-&gt;h('editable_ext')));if($g=opendir($b)){while(($f=readdir($g))!==false){if($f!='.'&amp;&amp; $f!='..'){$h=array();if(is_file($b.$f)){$h['name']=$f;$h['size']=filesize($b.$f);$h['date']=filemtime($b.$f);preg_match('~\.(?:'.$j.')$~i',$f,$i);if(isset($i[0]))$h['url']=$this-&gt;s-&gt;b(1).substr($a,strlen($this-&gt;s-&gt;e())).$f;else$h['url']=$a.$f;$e[]=$h;}else{$h=$this-&gt;l($a.$f.'/');$d[]=$h;}$c['size']+=$h['size'];}}closedir($g);}$c['list']=array_merge($this-&gt;u($d),$this-&gt;u($e));return $c;}public function u($a){$b=array();$c=array();foreach($a as$d)$b[]=$d['name'];asort($b);foreach($b as$e){foreach($a as$d){if($e==$d['name'])$c[]=$d;}}return $c;}public function t(){$a=$this-&gt;s-&gt;f();if($b=opendir($a)){while(($c=readdir($b))!==false){if($c!='.'&amp;&amp;$c!='..'){if(is_file($a.$c)){$d=array();$e=array();if(preg_match('~^index\.(?:html?|sh?tml?)$~i',$c)){closedir($b);return $c;}else if(preg_match('~\.(?:html?|sh?tml?)$~i',$c)){$d[]=$c;}else if(preg_match('~\.(?:php|css|js|xml)$~i',$c)){$e[]=$c;}}}}closedir($b);if(isset($d[0])){return $d[0];}else if(isset($e[0])){return $e[0];}}}public function m(){$a=$this-&gt;s-&gt;d().'.htaccess';if(file_exists($a)){$b=file_get_contents($a);preg_match('~RewriteBase (.+?)\n~i',$b,$c);if(isset($c[0])&amp;&amp;isset($c[1])){if($c[1]!=$this-&gt;s-&gt;b()){$b=str_replace($c[0],'RewriteBase '.$this-&gt;s-&gt;b().&quot;\n&quot;,$b);$this-&gt;n($b);}}else{$b=preg_replace('~(RewriteEngine .+?\n)~i','$1'.&quot;\n&quot;.'RewriteBase '.$this-&gt;s-&gt;b().&quot;\n&quot;,$b);$this-&gt;n($b);}}}public function n($a){if($b=fopen($this-&gt;s-&gt;d().'.htaccess','w')){flock($b,LOCK_EX);fwrite($b,$a);flock($b,LOCK_UN);fclose($b);}}public function o(){$a='';$b=explode(',',$this-&gt;s-&gt;h('lang'));$c=$this-&gt;s-&gt;a();foreach($b as$d){$d=trim($d);if($c==$d)$e=$this-&gt;s-&gt;k('m',array('name'=&gt;'lang','value'=&gt;$d));else$e=$this-&gt;s-&gt;k('l',array('name'=&gt;'lang','value'=&gt;$d));$a.=$this-&gt;s-&gt;k('k',array('radio'=&gt;$e,'lang'=&gt;$d));}return $a;}public function p(){$a=sha1(time().mt_rand());$this-&gt;s-&gt;i('session',$a);$this-&gt;u-&gt;e('textolite_session',$a,time()+60*$this-&gt;s-&gt;h('auth_session_reset'),$this-&gt;s-&gt;b(),false,false,true);}public function q(){$this-&gt;s-&gt;i('session','');$this-&gt;u-&gt;f('textolite_session',$this-&gt;s-&gt;b());}public function r($a){$this-&gt;u-&gt;c($a-&gt;getCode(),$this-&gt;s-&gt;o($a-&gt;getCode()));if($b=$a-&gt;getMessage())$this-&gt;u-&gt;d($b);$c['code']=$a-&gt;getCode();$c['system_url']=$this-&gt;s-&gt;b();$c['version']=self::s;$this-&gt;u-&gt;g($this-&gt;s-&gt;k('g',$c));}}$e=new a();$f=new b($e-&gt;c('server_protocol'));$g=new c(dirname($e-&gt;c('script_filename')).'/',$e-&gt;c('document_root'),$e-&gt;c('http_accept_language'),$e-&gt;e('textolite_lang'));$h=new d($g,$e,$f);try{$h-&gt;a();}catch(Exception $j){$h-&gt;r($j);}$f-&gt;h();?&gt;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/homepage.html" />
+        <option value="$PROJECT_DIR$/journal.php" />
+        <option value="$PROJECT_DIR$/js/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/home.php" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/catolog.php" />
+        <option value="$PROJECT_DIR$/css/pages.css" />
+        <option value="$PROJECT_DIR$/js/popup.js" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/textolite/conf.ini" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/admin/admin.php" />
+        <option value="$PROJECT_DIR$/auto.php" />
+        <option value="$PROJECT_DIR$/admin/enter.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/components.css" />
+        <option value="$PROJECT_DIR$/css/bel.php" />
+        <option value="$PROJECT_DIR$/addProd.php" />
+        <option value="$PROJECT_DIR$/admin/contact.php" />
+        <option value="$PROJECT_DIR$/admin/.htaccess" />
+        <option value="$PROJECT_DIR$/admin/auto.php" />
+        <option value="$PROJECT_DIR$/admin/ind.php" />
+        <option value="$PROJECT_DIR$/admin/.htpasswr" />
+        <option value="$PROJECT_DIR$/admin/config.php" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/admin/admin_main.php" />
+        <option value="$PROJECT_DIR$/admin/admin_logout.php" />
+        <option value="$PROJECT_DIR$/edit.php" />
+        <option value="$PROJECT_DIR$/cupcakes.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/phpFunction/dbOutput.php" />
+        <option value="$PROJECT_DIR$/phpFunction/script.php" />
+        <option value="$PROJECT_DIR$/cupcake-detail.php" />
+        <option value="$PROJECT_DIR$/phpFunction/add.php" />
+        <option value="$PROJECT_DIR$/phpFunction/bel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kursova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Kursova" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="SearchEverywhereHistoryKey" value="иет&#9;null&#9;null&#10;banner &#9;null&#9;null&#10;hero-title&#9;null&#9;null&#10;align&#9;null&#9;null&#10;.align&#9;null&#9;null" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebServer\domains\Kursova" />
+      <recent name="D:\WebServer\domains\Kursova\admin" />
+      <recent name="D:\WebServer\domains\Kursova\phpFunction" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.cupcake-detail.php">
+    <configuration default="false" name="cupcake-detail.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Kursova/cupcake-detail.php">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.cupcake-detail.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.cupcake-detail.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4780fff-8e98-457e-a1eb-dc69eee0e815" name="Default" comment="" />
+      <created>1489317894683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1489317894683</updated>
+      <workItem from="1489317896653" duration="10847000" />
+      <workItem from="1490276652562" duration="633000" />
+      <workItem from="1491397991918" duration="1764000" />
+      <workItem from="1491756282121" duration="5050000" />
+      <workItem from="1491807354574" duration="2308000" />
+      <workItem from="1491830629548" duration="1080000" />
+      <workItem from="1491847400960" duration="1404000" />
+      <workItem from="1491893290865" duration="1155000" />
+      <workItem from="1492095497448" duration="605000" />
+      <workItem from="1492410223242" duration="21543000" />
+      <workItem from="1492520111844" duration="10460000" />
+      <workItem from="1492580586564" duration="5736000" />
+      <workItem from="1493389934052" duration="1602000" />
+      <workItem from="1493400029381" duration="1694000" />
+      <workItem from="1493649458767" duration="621000" />
+      <workItem from="1494570740228" duration="3000" />
+      <workItem from="1494958725048" duration="842000" />
+      <workItem from="1494960288359" duration="710000" />
+      <workItem from="1495004931052" duration="17938000" />
+      <workItem from="1495297079333" duration="28000" />
+      <workItem from="1495306209937" duration="85000" />
+      <workItem from="1495351329529" duration="25236000" />
+      <workItem from="1495478900122" duration="7410000" />
+      <workItem from="1495521844404" duration="3515000" />
+      <workItem from="1495730564991" duration="35000" />
+      <workItem from="1495731175306" duration="8000" />
+      <workItem from="1495732751287" duration="9000" />
+      <workItem from="1496149397688" duration="4118000" />
+      <workItem from="1496403383025" duration="612000" />
+      <workItem from="1496650775841" duration="2522000" />
+      <workItem from="1496675007251" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129580000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24895833" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50416666" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49583334" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.49791667" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39957717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/homecake.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/journal.php" />
+    <entry file="file://$PROJECT_DIR$/catolog.php" />
+    <entry file="file://$PROJECT_DIR$/js/vendor/jquery.magnific-popup.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/jquery-1.11.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/popup.js" />
+    <entry file="file://$PROJECT_DIR$/admi.php" />
+    <entry file="file://$PROJECT_DIR$/textolite/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/textolite/conf.ini" />
+    <entry file="file://$PROJECT_DIR$/textolite/lang.ini" />
+    <entry file="file://$PROJECT_DIR$/textolite/textolite.php" />
+    <entry file="file://$PROJECT_DIR$/textolite/textolite.js" />
+    <entry file="file://$PROJECT_DIR$/textolite/textolite.css" />
+    <entry file="file://$PROJECT_DIR$/admin/auto.php" />
+    <entry file="file://$PROJECT_DIR$/edit.php" />
+    <entry file="file://$PROJECT_DIR$/contactform/contact-form-handler.php" />
+    <entry file="file://$PROJECT_DIR$/contactform/thanks/contact-form-thank-you.html" />
+    <entry file="file://$PROJECT_DIR$/admin/enter.php" />
+    <entry file="file://$PROJECT_DIR$/admin/auth.php" />
+    <entry file="file://$PROJECT_DIR$/admin/admin.php" />
+    <entry file="file://$PROJECT_DIR$/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1798">
+          <caret line="131" column="29" lean-forward="false" selection-start-line="131" selection-start-column="29" selection-end-line="131" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="724">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/vendor.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="865">
+          <caret line="3460" column="16" lean-forward="false" selection-start-line="3460" selection-start-column="16" selection-end-line="3460" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pages.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="584" column="12" lean-forward="true" selection-start-line="584" selection-start-column="12" selection-end-line="584" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3720">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="182" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/components.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1520">
+          <caret line="936" column="15" lean-forward="false" selection-start-line="936" selection-start-column="15" selection-end-line="936" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="746">
+          <caret line="312" column="0" lean-forward="true" selection-start-line="200" selection-start-column="3" selection-end-line="312" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/contact.php" />
+    <entry file="file://$PROJECT_DIR$/admin/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/admin/auto.php" />
+    <entry file="file://$PROJECT_DIR$/admin/.htpasswr" />
+    <entry file="file://$PROJECT_DIR$/admin/admin_main.php" />
+    <entry file="file://$PROJECT_DIR$/admin/admin_logout.php" />
+    <entry file="file://$PROJECT_DIR$/admin/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/box.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="113" column="27" lean-forward="true" selection-start-line="112" selection-start-column="2" selection-end-line="113" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="83" lean-forward="false" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="58" selection-end-line="4" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-968">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <marker date="1495485147180" expanded="true" signature="1131:1453" ph="..." />
+            <marker date="1495485147180" expanded="true" signature="1156:1453" ph="..." />
+            <marker date="1495485147180" expanded="true" signature="1494:1552" ph="Select id,na... Products" />
+            <marker date="1495485147180" expanded="true" signature="2091:2439" ph="..." />
+            <marker date="1495485147180" expanded="true" signature="3269:3522" ph="..." />
+            <marker date="1495485147180" expanded="true" signature="3294:3522" ph="..." />
+            <marker date="1495485147180" expanded="true" signature="3563:3700" ph="SELECT Order... Orders_cake" />
+            <marker date="1495485147180" expanded="true" signature="4172:4398" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1506">
+          <caret line="74" column="7" lean-forward="false" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2024">
+          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/addProd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cupcakes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
+          <folding>
+            <marker date="1495525219616" expanded="true" signature="1074:1129" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1102:1129" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1317:1897" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1389:1878" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1431:1857" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1490:1606" ph="..." />
+            <marker date="1495525219616" expanded="true" signature="1663:1827" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cupcake-detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="97" />
+          <folding>
+            <marker date="1496665318182" expanded="true" signature="855:930" ph="Select id,na... Products" />
+            <marker date="1496665318182" expanded="true" signature="1358:1487" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="1359:1487" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="1549:1585" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="1549:1676" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="1738:1815" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="1738:1865" ph="..." />
+            <marker date="1496665318182" expanded="true" signature="2200:2802" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="16" lean-forward="false" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction/add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="52" lean-forward="false" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="59" />
+          <folding>
+            <marker date="1496665315910" expanded="true" signature="455:576" ph="insert into Products... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction/bel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="77" />
+          <folding>
+            <marker date="1496665318157" expanded="true" signature="146:182" ph="delete from " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction/dbOutput.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="4" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="77" />
+          <folding>
+            <marker date="1496665318221" expanded="true" signature="98:156" ph="Select id,na... Products" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpFunction/script.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="73" />
+          <folding>
+            <marker date="1496665318119" expanded="true" signature="197:286" ph="insert into Orders_cake... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
